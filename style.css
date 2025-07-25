@@ -1,0 +1,27 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	text-align: center;
+	background-color: #eee;
+	font-family: Helvetica, Arial, Sans-Serif;
+}
+
+.lasagna-text {
+	font-family: Papyrus, Copperplate, Fantasy;
+}
+
+.brigadeiro-text {
+	font-family: "Brush Script MT", Cursive;
+}
+
+.beijinho-text {
+	font-family: "Courier New", Monospace;
+}
+
+h1 {
+	border: 2px solid black;
+	padding: 8px;
+	background-color: #00bbbb;
+}
